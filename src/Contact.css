@@ -1,0 +1,33 @@
+.contactstyle{
+    background-color: indianred;
+}
+
+.contactstyle button{
+    background-color: rgb(10, 190, 175);
+    color: lavender;
+    padding: .4rem 1rem;
+    font-size: 1rem;
+
+}
+
+.contactstyle h1{
+    text-shadow: lightpink;
+    text-transform: capitalize;
+    
+}
+
+
+#hdr btn-style:hover{
+    background-color: rgb(10, 190, 175);
+    color: lavender;
+
+
+}
+
+.contactstyle strong{
+    color: lightpink;
+}
+.contactstyle NavLink{
+    text-decoration: none;
+    color: lightsalmon;
+}
